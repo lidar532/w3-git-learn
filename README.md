@@ -22,4 +22,4 @@ Added 2023-0402-1156 -ww Added from deb-1
    > git clone git@github.com:lidar532/w3-git-learn.git
 
 
-At this pointyou should have a clone of the repository on your system.
+At this point you should have a clone of the repository on your system.
